@@ -22,10 +22,4 @@ jobs:
         run: npm install
       
       - name: Run tests
-      - name: Debug PATH
-        run: |
-          which node
-          which npm
-          which jest
-          npm list --depth=0
         run: npm test
