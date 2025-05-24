@@ -1,1 +1,3 @@
 console.log("Hello CI World!");
+console.log("Hello fisrt CI program!");
+console.writeline("HEllo Team");
